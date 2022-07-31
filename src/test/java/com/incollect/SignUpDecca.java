@@ -35,21 +35,5 @@ public class SignUpDecca extends WebdriverSettings {
         driver.findElement(By.xpath("/html/body/form/div[1]/div/div[13]/input[2]")).click();
         driver.findElement(By.id("registerSubmit")).click();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
