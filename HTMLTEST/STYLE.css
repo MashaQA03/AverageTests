@@ -1,0 +1,53 @@
+body {
+background:url("../HTMLTEST/TIMS12.jpg");
+    font-family:Calibri; 
+    font-size:15px;  
+    text-shadow:green 0 0 60px; 
+}
+
+img {
+    box-shadow: 0 5px 50px; 
+    color:#616796; 
+    border-radius: 50%;
+    float:top;
+    margin-right: 1120px;
+    margin-top: 0;
+    position: relative;top:-100px;right: -200px;
+}
+
+.text {
+    font-size:15px;
+    color:black;
+    font-weight:bold; 
+    text-align: center;
+    line-height:1;
+    text-shadow:green 0 0 60px; 
+    float:left;
+}
+
+h1 {
+    font-size:15px;
+    color:black;
+    text-align: left;
+    position: relative;top:-270px;right: -500px;
+}
+.text2{
+    font-size:15px;
+    color:black;
+    font-weight:bold; 
+    text-align: left;
+    line-height:1,5;
+    text-shadow:green 0 0 60px; 
+    position: relative;top:-250px;right: -550px;
+
+}
+
+h2 {
+    font-size:15px;
+    color:black;
+    text-align: left;
+    position: relative;top:-3px;right: 20px;
+    text-shadow:green 0 0 60px;
+    
+    
+}
